@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dexie": "^3.2.2",
+    "workbox-cli": "^6.5.3"
+  }
+}
